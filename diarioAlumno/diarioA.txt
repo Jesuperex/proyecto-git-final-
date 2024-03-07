@@ -11,4 +11,5 @@ Aquí viene tu diario
 19:30 ceno
 20:00 estudio pero ahora mas programacion
 22:00 termino de estudiar programacion
-22:30 durmiendo
+22:30 descanso
+24:00 duermo
